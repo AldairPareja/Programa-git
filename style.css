@@ -1,0 +1,912 @@
+.pagina-principal {
+    background-color: #c37777;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.pagina-principal .div {
+    background-color: #c37777;
+    overflow: hidden;
+    width: 1524px;
+    height: 2722px;
+    position: relative;
+}
+
+.pagina-principal .group {
+    position: absolute;
+    width: 1524px;
+    height: 90px;
+    top: 0;
+    left: 0;
+}
+
+.pagina-principal .navbar {
+    position: relative;
+    height: 90px;
+    background-color: #d48282;
+}
+
+.pagina-principal .navbar-2 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 35px;
+    position: absolute;
+    top: 35px;
+    left: 919px;
+}
+
+.pagina-principal .text-wrapper {
+    width: 39px;
+    position: relative;
+    height: 20px;
+    margin-top: -1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.pagina-principal .text-wrapper-2 {
+    width: 65px;
+    position: relative;
+    height: 20px;
+    margin-top: -1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.pagina-principal .text-wrapper-3 {
+    position: relative;
+    width: 72px;
+    height: 20px;
+    margin-top: -1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.pagina-principal .text-wrapper-4 {
+    width: 60px;
+    position: relative;
+    height: 20px;
+    margin-top: -1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.pagina-principal .busqueda {
+    position: absolute;
+    width: 63px;
+    height: 20px;
+    top: 35px;
+    left: 1396px;
+}
+
+.pagina-principal .frame {
+    position: absolute;
+    width: 23px;
+    height: 23px;
+    top: 35px;
+    left: 1353px;
+}
+
+.pagina-principal .logo {
+    position: absolute;
+    width: 119px;
+    height: 80px;
+    top: 0;
+    left: 30px;
+    object-fit: cover;
+}
+
+.pagina-principal .scroll {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    position: absolute;
+    top: 129px;
+    left: 0;
+    overflow-x: scroll;
+}
+
+.pagina-principal .group-2 {
+    position: relative;
+    width: 3720px;
+    height: 400px;
+}
+
+.pagina-principal .overlap-group {
+    position: absolute;
+    width: 1750px;
+    height: 400px;
+    top: 0;
+    left: 0;
+}
+
+.pagina-principal .frame-2 {
+    display: flex;
+    width: 1508px;
+    align-items: flex-end;
+    gap: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow-x: scroll;
+}
+
+.pagina-principal .torta-tres-leches {
+    position: relative;
+    width: 600px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.pagina-principal .descarga {
+    position: relative;
+    width: 637px;
+    height: 400px;
+}
+
+.pagina-principal .img {
+    position: relative;
+    width: 600px;
+    height: 400px;
+}
+
+.pagina-principal .descarga-2 {
+    position: relative;
+    width: 727px;
+    height: 400px;
+}
+
+.pagina-principal .galletas-crinkle-de {
+    position: relative;
+    width: 604px;
+    height: 399px;
+}
+
+.pagina-principal .rectangle {
+    position: absolute;
+    width: 300px;
+    height: 70px;
+    top: 139px;
+    left: 182px;
+    background-color: #d9d9d9a6;
+}
+
+.pagina-principal .rectangle-2 {
+    position: absolute;
+    width: 300px;
+    height: 70px;
+    top: 148px;
+    left: 1450px;
+    background-color: #d9d9d9a6;
+}
+
+.pagina-principal .text-wrapper-5 {
+    position: absolute;
+    height: 32px;
+    top: 161px;
+    left: 1491px;
+    font-family: "Roboto Mono-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.pagina-principal .rectangle-3 {
+    position: absolute;
+    width: 300px;
+    height: 70px;
+    top: 139px;
+    left: 796px;
+    background-color: #d9d9d9a6;
+}
+
+.pagina-principal .text-wrapper-6 {
+    position: absolute;
+    height: 32px;
+    top: 158px;
+    left: 902px;
+    font-family: "Roboto Mono-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.pagina-principal .text-wrapper-7 {
+    position: absolute;
+    height: 32px;
+    top: 158px;
+    left: 195px;
+    font-family: "Roboto Mono-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.pagina-principal .overlap {
+    position: absolute;
+    width: 300px;
+    height: 70px;
+    top: 148px;
+    left: 2103px;
+    background-color: #d9d9d9a6;
+}
+
+.pagina-principal .text-wrapper-8 {
+    position: absolute;
+    height: 32px;
+    top: 13px;
+    left: 92px;
+    font-family: "Roboto Mono-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.pagina-principal .div-wrapper {
+    position: absolute;
+    width: 300px;
+    height: 70px;
+    top: 148px;
+    left: 2786px;
+    background-color: #d9d9d9a6;
+}
+
+.pagina-principal .text-wrapper-9 {
+    position: absolute;
+    height: 32px;
+    top: 19px;
+    left: 92px;
+    font-family: "Roboto Mono-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.pagina-principal .overlap-2 {
+    position: absolute;
+    width: 300px;
+    height: 70px;
+    top: 148px;
+    left: 3408px;
+    background-color: #d9d9d9a6;
+}
+
+.pagina-principal .text-wrapper-10 {
+    position: absolute;
+    width: 174px;
+    height: 40px;
+    top: 11px;
+    left: 50px;
+    font-family: "Roboto Mono-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.pagina-principal .text-wrapper-11 {
+    position: absolute;
+    height: 22px;
+    top: 693px;
+    left: 618px;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 19px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.pagina-principal .overlap-3 {
+    position: absolute;
+    width: 1524px;
+    height: 350px;
+    top: 757px;
+    left: 0;
+    background-color: #d9d9d940;
+    box-shadow: 3px 3px 5px #00000040;
+}
+
+.pagina-principal .rectangle-4 {
+    position: absolute;
+    width: 250px;
+    height: 200px;
+    top: 42px;
+    left: 46px;
+    object-fit: cover;
+}
+
+.pagina-principal .rectangle-5 {
+    position: absolute;
+    width: 250px;
+    height: 200px;
+    top: 42px;
+    left: 434px;
+}
+
+.pagina-principal .rectangle-6 {
+    position: absolute;
+    width: 250px;
+    height: 200px;
+    top: 42px;
+    left: 822px;
+}
+
+.pagina-principal .rectangle-7 {
+    position: absolute;
+    width: 250px;
+    height: 200px;
+    top: 42px;
+    left: 1210px;
+    object-fit: cover;
+}
+
+.pagina-principal .torta-de-maracuy {
+    position: absolute;
+    height: 45px;
+    top: 259px;
+    left: 66px;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 15px;
+}
+
+.pagina-principal .span {
+    font-weight: 500;
+}
+
+.pagina-principal .text-wrapper-12 {
+    font-family: "Roboto Condensed-Regular", Helvetica;
+}
+
+.pagina-principal .torta-de-queso {
+    position: absolute;
+    height: 45px;
+    top: 259px;
+    left: 484px;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 15px;
+}
+
+.pagina-principal .torta-de-banano {
+    position: absolute;
+    height: 45px;
+    top: 259px;
+    left: 879px;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 15px;
+}
+
+.pagina-principal .torta-de-pi-a {
+    position: absolute;
+    height: 45px;
+    top: 259px;
+    left: 1296px;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 15px;
+}
+
+.pagina-principal .text-wrapper-13 {
+    position: absolute;
+    height: 23px;
+    top: 1296px;
+    left: 627px;
+    font-family: "Roboto Flex-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.pagina-principal .p {
+    position: absolute;
+    height: 23px;
+    top: 1987px;
+    left: 579px;
+    font-family: "Roboto Flex-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.pagina-principal .redes {
+    position: absolute;
+    width: 735px;
+    height: 150px;
+    top: 2062px;
+    left: 387px;
+}
+
+.pagina-principal .categorias {
+    position: absolute;
+    width: 1226px;
+    height: 367px;
+    top: 1406px;
+    left: 136px;
+}
+
+.pagina-principal .overlap-group-wrapper {
+    position: absolute;
+    width: 380px;
+    height: 367px;
+    top: 0;
+    left: 0;
+}
+
+.pagina-principal .overlap-group-2 {
+    position: relative;
+    width: 378px;
+    height: 367px;
+    background-image: url(./img/rectangle-21.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.pagina-principal .rectangle-8 {
+    position: absolute;
+    width: 251px;
+    height: 66px;
+    top: 145px;
+    left: 61px;
+    background-color: #d9d9d9a6;
+}
+
+.pagina-principal .text-wrapper-14 {
+    position: absolute;
+    height: 29px;
+    top: 160px;
+    left: 124px;
+    font-family: "Roboto Serif-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.pagina-principal .overlap-wrapper {
+    position: absolute;
+    width: 380px;
+    height: 367px;
+    top: 0;
+    left: 424px;
+}
+
+.pagina-principal .overlap-4 {
+    position: relative;
+    width: 378px;
+    height: 367px;
+    background-image: url(./img/rectangle-22.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.pagina-principal .rectangle-9 {
+    position: absolute;
+    width: 251px;
+    height: 66px;
+    top: 145px;
+    left: 74px;
+    background-color: #d9d9d9a6;
+}
+
+.pagina-principal .text-wrapper-15 {
+    position: absolute;
+    height: 29px;
+    top: 161px;
+    left: 89px;
+    font-family: "Roboto Serif-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.pagina-principal .group-3 {
+    position: absolute;
+    width: 380px;
+    height: 367px;
+    top: 0;
+    left: 848px;
+}
+
+.pagina-principal .overlap-5 {
+    position: relative;
+    width: 378px;
+    height: 367px;
+    background-image: url(./img/rectangle-23.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.pagina-principal .rectangle-10 {
+    position: absolute;
+    width: 251px;
+    height: 66px;
+    top: 142px;
+    left: 63px;
+    background-color: #d9d9d9a6;
+}
+
+.pagina-principal .text-wrapper-16 {
+    position: absolute;
+    height: 29px;
+    top: 160px;
+    left: 137px;
+    font-family: "Roboto Serif-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.pagina-principal .overlap-6 {
+    position: absolute;
+    width: 1564px;
+    height: 347px;
+    top: 2375px;
+    left: -14px;
+}
+
+.pagina-principal .group-4 {
+    position: absolute;
+    width: 1564px;
+    height: 347px;
+    top: 0;
+    left: 0;
+}
+
+.pagina-principal .overlap-7 {
+    position: relative;
+    width: 1538px;
+    height: 347px;
+    background-color: #f08050;
+}
+
+.pagina-principal .text-wrapper-17 {
+    position: absolute;
+    width: 190px;
+    height: 19px;
+    top: 152px;
+    left: 993px;
+    font-family: "Roboto Serif-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.pagina-principal .text-wrapper-18 {
+    position: absolute;
+    width: 443px;
+    height: 19px;
+    top: 119px;
+    left: 993px;
+    font-family: "Roboto Serif-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.pagina-principal .text-wrapper-19 {
+    position: absolute;
+    width: 417px;
+    height: 19px;
+    top: 22px;
+    left: 555px;
+    font-family: "Roboto Serif-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.pagina-principal .text-wrapper-20 {
+    position: absolute;
+    width: 297px;
+    height: 19px;
+    top: 117px;
+    left: 386px;
+    font-family: "Roboto Serif-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.pagina-principal .rectangle-11 {
+    position: absolute;
+    width: 151px;
+    height: 99px;
+    top: 182px;
+    left: 89px;
+    object-fit: cover;
+}
+
+.pagina-principal .vis-tanos {
+    position: absolute;
+    width: 92px;
+    height: 29px;
+    top: 105px;
+    left: 89px;
+    font-family: "Roboto Serif-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 19px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.pagina-principal .text-wrapper-21 {
+    font-family: "Roboto Serif-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 19px;
+    letter-spacing: 0;
+}
+
+.pagina-principal .text-wrapper-22 {
+    font-size: 25px;
+}
+
+.pagina-principal .calle-la {
+    position: absolute;
+    width: 140px;
+    height: 28px;
+    top: 144px;
+    left: 89px;
+    font-family: "Roboto Serif-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.pagina-principal .text-wrapper-23 {
+    position: absolute;
+    width: 460px;
+    height: 44px;
+    top: 152px;
+    left: 386px;
+    font-family: "Roboto Serif-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.pagina-principal .overlap-group-3 {
+    position: absolute;
+    width: 321px;
+    height: 49px;
+    top: 206px;
+    left: 386px;
+    background-color: #44b842;
+    border-radius: 20px;
+}
+
+.pagina-principal .text-wrapper-24 {
+    position: absolute;
+    width: 215px;
+    height: 19px;
+    top: 17px;
+    left: 62px;
+    font-family: "Roboto Serif-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.pagina-principal .line {
+    position: absolute;
+    width: 500px;
+    height: 4px;
+    top: 33px;
+    left: 19px;
+}
+
+.pagina-principal .line-2 {
+    position: absolute;
+    width: 500px;
+    height: 4px;
+    top: 33px;
+    left: 1009px;
+}
+
+.pagina-principal .text-wrapper-25 {
+    position: absolute;
+    width: 92px;
+    height: 19px;
+    top: 86px;
+    left: 993px;
+    font-family: "Roboto Serif-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.pagina-principal .line-3 {
+    position: absolute;
+    width: 339px;
+    height: 2px;
+    top: 172px;
+    left: 993px;
+    object-fit: cover;
+}
+
+.pagina-principal .text-wrapper-26 {
+    position: absolute;
+    width: 235px;
+    height: 19px;
+    top: 213px;
+    left: 993px;
+    font-family: "Roboto Serif-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.pagina-principal .text-wrapper-27 {
+    position: absolute;
+    width: 151px;
+    height: 19px;
+    top: 242px;
+    left: 993px;
+    font-family: "Roboto Serif-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.pagina-principal .text-wrapper-28 {
+    position: absolute;
+    width: 84px;
+    height: 19px;
+    top: 272px;
+    left: 993px;
+    font-family: "Roboto Serif-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.pagina-principal .text-wrapper-29 {
+    position: absolute;
+    width: 92px;
+    height: 19px;
+    top: 301px;
+    left: 993px;
+    font-family: "Roboto Serif-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.pagina-principal .vector {
+    position: absolute;
+    width: 25px;
+    height: 22px;
+    top: 140px;
+    left: 1307px;
+}
+
+.pagina-principal .vector-2 {
+    position: absolute;
+    width: 22px;
+    height: 25px;
+    top: 217px;
+    left: 412px;
+}
